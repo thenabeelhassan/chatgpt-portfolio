@@ -51,6 +51,8 @@ nav ul li a {
 #hero button {
   padding: 10px 20px;
   background-color: #007bff;
+  margin: 0 5px;
+  border-radius: 15px;
   color: #fff;
   border: none;
   cursor: pointer;
