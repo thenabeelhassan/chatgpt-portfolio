@@ -46,6 +46,8 @@ nav ul li a {
 
 #hero h1 {
   font-size: 3rem;
+  font-family: "Times New Roman", Times, serif;
+  margin: 0 5px;
 }
 
 #hero button {
