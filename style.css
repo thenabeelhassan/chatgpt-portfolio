@@ -48,7 +48,7 @@ nav ul li a {
   font-size: 3rem;
   font-family: "Times New Roman", Times, serif;
   margin: 0 5px;
-  text-decoration: underline 2px black;
+  text-decoration: underline 5px red;
 }
 
 #hero button {
