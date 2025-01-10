@@ -1,5 +1,5 @@
 # Use the official Nginx image as the base
-FROM nginx:alpine
+FROM nginx:latest
 
 # Set the working directory inside the container
 WORKDIR /usr/share/nginx/html
